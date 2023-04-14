@@ -1,0 +1,246 @@
+header {
+    width: 100%;
+    border-bottom: 2px solid red;
+    display: block;
+    padding-bottom: 20px;
+    padding-top: 1%;
+    padding-left: 2%;
+}
+
+body {
+    background-image: url("https://sukromnazakladka.sk/wp-content/uploads/2023/03/chobotnica-75.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+div#LOGO {
+    width: 50%;
+    display: inline-block;
+}
+
+div#LOGO img {
+    width: 100%;
+}
+
+nav {
+    width: 40%;
+    display: inline-block;
+    position: relative;
+    top: -15px;
+}
+
+ul {
+    width: 100%;
+    display: block;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+
+ul li {
+    width: auto;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+ul li a {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+ul li:hover {
+    background: #680000;
+}
+
+footer {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+    background-color: #565759;
+    color: white;
+    padding: 10px 0;
+    margin-top: 13%
+
+}
+
+footer p {
+    padding: 0;
+    margin: 0;
+}
+
+.teraz {
+    background-color: #565759;
+}
+
+a {
+    display:inline-block;
+    width: 100%;
+    height: 100%;
+
+}
+
+input{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  margin-left: 60%;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-sizing: border-box;
+}
+
+textarea{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  margin-left: 60%;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-sizing: border-box;
+}
+
+#clearfix{
+    clear: both;
+}
+
+#leftside {
+ display: block;
+ float: left;
+ padding: 0;
+ margin: 0;
+ width: 50%;
+}
+
+
+
+#rightside {
+ display: block;
+ float: right;
+ padding: 0;
+ margin: 0;
+ width: 50%;
+    
+}
+
+main {
+    padding: 5% 2%;
+}
+
+body {
+    display: block;
+    margin: 0px;
+}
+
+#topcover{
+    display: block;
+    width: 100%;
+}
+
+#topcover img{
+    width: 100%;
+}
+
+.redBtn{
+    background: red;
+    color: white;
+    padding: 1%;
+    margin-top: 5%;
+    display: block;
+    width: 15%;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: auto;
+}
+
+.redBtn:hover{
+    background: #680000;
+}
+
+div#schoolBox {
+    width: 60%;
+    height: 200px;
+    background: #565759;
+    margin: 0 auto;
+    border-radius: 10px;
+    position: relative;
+    top: -6.5em;
+}
+
+#lavatext{
+    margin: 0px;
+    padding: 7% 5%;
+    float: left;
+    width: 40%;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+div#kyber {
+    float: left;
+    background-color: #056839;
+    width: 150px;
+    height: 150px;
+    margin-top: 24px;
+    margin-left: -41px;
+    border-radius: 10px;
+    margin-right: -9px;
+}
+
+div#graf {
+    float: left;
+    background-color: silver;
+    width: 150px;
+    height: 150px;
+    margin-top: 24px;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+
+div#biling {
+    float: left;
+    background-color: #1188ee;
+    width: 150px;
+    height: 150px;
+    margin-top: 24px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+img#kyberobrazok {
+    height: 100px;
+    marginleft: 10px;
+    margin-left: 15%;
+}
+
+img#grafobrazok {
+    height: 100px;
+    marginleft: 10px;
+    margin-left: 15%;
+}
+
+img#bilingobrazok {
+    height: 100px;
+    marginleft: 10px;
+    margin-left: 15%;
+
+}
+
+.Odbortext {
+    margin-top: -5px;
+    text-align: center;
+    color: white;
+    font-size: 21px;
+
+}
